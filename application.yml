@@ -1,0 +1,17 @@
+spring:
+  profiles:
+    active: dev
+  application:
+    name: eureka-service-consumer1
+
+  security:
+    user:
+      name: root
+      password: root
+
+
+#开启springcloud的重试功能
+#  cloud:
+#    loadbalancer:
+#      retry:
+#        enabled: true
