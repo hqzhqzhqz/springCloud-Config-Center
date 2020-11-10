@@ -15,5 +15,3 @@ spring:
 #    loadbalancer:
 #      retry:
 #        enabled: true
-
-myconfig-name: dev
