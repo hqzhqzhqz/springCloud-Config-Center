@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active: master
+    active: dev
   application:
     name: eureka-service-consumer1
 
